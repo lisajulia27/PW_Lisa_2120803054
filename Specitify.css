@@ -1,0 +1,10 @@
+#p1 {
+              color: chartreuse;
+            }
+            
+            p {
+              color: bisque;
+            }
+            
+            /* Yang dieksekusi yg akhir */
+            /* #p lebih spesifik dibanding p */
